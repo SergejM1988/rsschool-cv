@@ -94,7 +94,7 @@ font-weight: 400;
 font-size: 35px;
 line-height: 30%;}
 
-.h4 {
+.H4 {
 font-family: 'Georgia';
 font-style: normal;
 font-weight: 400;
@@ -181,4 +181,20 @@ background: #FFFFFF;
     }
 .Shampoos2{
     width: 100%;
+}
+
+.donation{
+    position: absolute;
+height: 462px;
+left: 0%;
+right: 0%;
+top: 1200px;
+background: #F6F6F6;;
+}
+.h3 {
+    font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 130%;
 }
