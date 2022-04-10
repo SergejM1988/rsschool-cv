@@ -1,0 +1,184 @@
+.startScreen {
+position: absolute;
+height: 908px;
+left: 0%;
+right: 0%;
+top: 0px;
+}
+.startScreen{
+background-color: #292929;
+}
+.startPuppy {
+    position: absolute;
+    width: 698px;
+    height: 728px;
+    left: calc(50% - 698px/2 + 251px);
+    bottom: 0px;
+}
+.puppy {
+    position: absolute;
+width: 698px;
+height: 728px;
+left: calc(50% - 698px/2 + 251px);
+bottom: 0px;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+position: absolute;
+width: 443px;
+height: 27px;
+left: 757px;
+top: 16px;
+}
+.nav {
+    color: rgb(255, 255, 255);
+}
+
+header {
+    position: relative;
+    line-height: 5px;
+    font: Georgia;
+    top: 0px;
+    
+    
+}
+header {
+    color : white; 
+}
+.aboutimage {
+position: absolute;
+height: 588px;
+left: 0%;
+right: 0%;
+top: 908px;
+}
+.text1{
+position: absolute;
+width: 300px;
+height: 322px;
+left: 0px;
+top: 250px;
+}
+.text1{
+    color: white;
+}
+.buttFriend {
+font-size: 120%;
+align-items: center;
+padding: 15px 45px;
+background: #F1CDB3;
+border-radius: 100px;
+}
+.about {
+position: absolute;
+line-height: 23px;
+width: 430px;
+height: 380px;
+left: 595px;
+top: 908px;
+}
+.OurFriends {
+position: absolute;
+height: 877px;
+left: 0%;
+right: 0%;
+top: 1496px;
+background: #F6F6F6;
+}
+.OurF {
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 30%;}
+
+.h4 {
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115%;
+color: #545454;
+}
+
+.OurF {
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em
+}
+.container1{
+    display :flex;
+    justify-content:space-around;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.button2{
+    font-size: 120%;
+    align-items: center;
+    padding: 15px 45px;
+    background: #F1CDB3;
+    border-radius: 100px;
+   margin: 0 auto;
+   display: block;
+   position: relative;
+   top: 100px;
+
+;
+     
+}
+.Katrine{
+    border: 1px solid white;
+    background: #FAFAFA;
+    
+}
+.Katrine:hover{
+    background: rgb(211, 207, 207);
+    border: 2 px rgb(211, 207, 207);
+    cursor: pointer;
+     
+    }
+.Jennifer{
+    border: 1px solid white;
+    background: #FAFAFA;
+}
+.Jennifer:hover{
+    background: rgb(211, 207, 207);
+    border: 2 px rgb(211, 207, 207) ;
+    cursor: pointer;
+    
+    }
+.Woody{
+    border: 1px solid white;
+    background: #FAFAFA;
+}
+.Woody:hover{
+    background: rgb(211, 207, 207);
+    border: 2 px rgb(211, 207, 207) ;
+    cursor: pointer;
+    }
+
+    .Help{
+position: absolute;
+height: 611px;
+left: 0%;
+right: 0%;
+top: 800px;
+background: #FFFFFF;
+    }
+
+    .container2{
+        display :flex;
+        justify-content:space-around;
+        align-items: center;
+        text-align: center;
+        flex-wrap: wrap;
+        
+        
+    }
+.Shampoos2{
+    width: 100%;
+}
